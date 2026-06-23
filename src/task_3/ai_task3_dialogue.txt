@@ -1,0 +1,5 @@
+User: fermat_attack.py faqat ciphertextni o‘qiyapti, flag chiqmayapti.
+AI: Sen faqat o‘qish qismini yozib qo‘ygan ekansan, to‘liq kodni qo‘yib ishga tushirsang flag chiqadi.
+...
+User: Flag: ???
+AI: Bu normal, chunki crypto.py faylida flag = b'???' yozilgan edi.

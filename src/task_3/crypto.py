@@ -1,4 +1,4 @@
-from Crypto.Util.number import *
+from Cryptodome.Util.number import *
 
 flag = b'???'
 

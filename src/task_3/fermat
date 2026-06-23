@@ -1,0 +1,4 @@
+with open("ciphertext.txt", "r") as f:
+    c_hex = f.read().strip()
+    c = int(c_hex, 16)   # hex stringni int ga o‘tkazish
+
